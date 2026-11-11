@@ -1,0 +1,20 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+.dev.vars*
+*.pem
+*.tsbuildinfo
+next-env.d.ts
+.vercel/
+.DS_Store
+# Audio is hosted separately; keep the source repository small.
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.ogg
+*.aac
+*.zip
+*.tar.gz
